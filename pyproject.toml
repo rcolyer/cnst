@@ -1,0 +1,34 @@
+[project]
+name = "cnst"
+description = "Physical, astronomical, and mathematical constants"
+authors = [{name = "Ryan A. Colyer", email = "ryancolyer@yahoo.com"}]
+dependencies = []
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE.txt"]
+keywords = ["constants", "physics", "astronomy", "math"]
+requires-python = ">= 3.9"
+dynamic = ["version"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering",
+]
+
+[project.urls]
+"Source code" = "https://github.com/rcolyer/cnst"
+"Issue tracker" = "https://github.com/rcolyer/cnst/issues"
+
+[build-system]
+requires = ["setuptools >= 62.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.dynamic]
+version.attr = "cnst.__version__"
+
