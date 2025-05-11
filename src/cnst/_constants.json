@@ -2274,6 +2274,14 @@
       "fundamental physical",
       "Avogadro constant"
     ],
+    "amu": [
+      "fundamental physical",
+      "atomic mass constant"
+    ],
+    "Rinf": [
+      "fundamental physical",
+      "Rydberg constant"
+    ],
     "G": [
       "fundamental physical",
       "Newtonian constant of gravitation"
