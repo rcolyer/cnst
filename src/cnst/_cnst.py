@@ -16,6 +16,8 @@ class Cnst():
         for k,v in self.table[t].items()}
     self.uncertainty = {k:v[2] for t in self.table_names
         for k,v in self.table[t].items()}
+    self.reluncert = {k:u/v for (k,v),(k2,u) in
+        zip(self.all.items(), self.uncertainty.items()) if k==k2 and v!=0}
     self.label = {k:f'{t} / {k}' for t in self.table_names
         for k,v in self.table[t].items()}
 
@@ -26,6 +28,7 @@ class Cnst():
         self.all[k] = entry[0]
         self.unit[k] = entry[1]
         self.uncertainty[k] = entry[2]
+        self.reluncert[k] = entry[2]/entry[0]
         self.label[k] = ' / '.join(v)
       except Exception as e:
         print(f'{k}: {v}', e)
