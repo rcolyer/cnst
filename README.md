@@ -8,6 +8,7 @@ This python package provides convenient access to constants from physics, astron
 * `cnst.c` -- The speed of light, accessed by shortcut.
 * `cnst.info['G']` -- Dictionary summarizing the available info for the Newtonian constant of gravitation.
 * `cnst.search('moon')` -- Dictionary of information for available constants with "moon" in the name, case-insensitive.
+* `print('\n'.join(cnst.search('planck').keys()))` -- Print the names of all the constants with Planck in the name.
 * `cnst.label['z95']` -- Reveals the label for a constant:
   - `'mathematical / z score for 95% confidence interval'`
 * `cnst.all` -- Dictionary of all values available.
@@ -15,6 +16,8 @@ This python package provides convenient access to constants from physics, astron
 * `cnst.unit['hbar']` -- A string of the unit for this constant.
 * `cnst.uncertainty['Compton wavelength']` -- The absolute uncertainty of the Compton wavelength.
 * `cnst.reluncert['m_Sun']` -- The relative uncertainty of the mass of the Sun.
+* `cnst.table` -- The dictionary structure loaded from the json file with all of the data.
+* `', '.join(cnst.table['shortcuts'].keys())` -- Show all the available shortcuts.
 * `f'{cnst.m_e} \u00b1 {cnst.uncertainty["m_e"]} {cnst.unit["m_e"]}'` -- Describes the mass of the electron as:
   - `'9.1093837015e-31 ± 2.8e-40 kg'`
 * `F = cnst.G*cnst.m_Earth*cnst.m_Moon/cnst.orb_Moon**2` -- Computes the gravitational force between the Earth and the Moon.
