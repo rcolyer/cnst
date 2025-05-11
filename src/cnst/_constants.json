@@ -1,189 +1,269 @@
 {
   "astronomical": {
     "mass of Sun": [
-      1.988475e+30,
+      1.988410e+30,
       "kg",
-      9.2e+25
+      4.5e+25
     ],
     "mass of Mercury": [
-      3.3011e+23,
+      3.30102e+23,
       "kg",
-      NaN
+      1.5e+19
     ],
     "mass of Venus": [
-      4.8675e+24,
+      4.86731e+24,
       "kg",
-      NaN
+      1.1e+20
     ],
     "mass of Earth": [
-      5.97237e+24,
+      5.97217e+24,
       "kg",
-      NaN
+      1.3e+20
     ],
     "mass of Mars": [
-      6.4171e+23,
+      6.41691e+23,
       "kg",
-      NaN
+      1.4e+19
     ],
     "mass of Ceres": [
-      9.393e+20,
+      9.38413e+20,
       "kg",
-      NaN
+      2.1e+16
     ],
     "mass of Jupiter": [
-      1.8982e+27,
+      1.898125e+27,
       "kg",
-      NaN
+      4.3e+22
     ],
     "mass of Saturn": [
-      5.6834e+26,
+      5.68317e+26,
       "kg",
-      NaN
+      1.3e+22
     ],
     "mass of Uranus": [
-      8.681e+25,
+      8.68097e+25,
       "kg",
-      NaN
+      2.0e+21
     ],
     "mass of Neptune": [
-      1.02413e+26,
+      1.024307e+26,
       "kg",
-      NaN
+      2.3e+21
     ],
     "mass of Pluto": [
-      1.303e+22,
+      1.305e+22,
       "kg",
-      NaN
+      1.3e+20
     ],
     "mass of Moon": [
-      7.342e+22,
+      7.34889e+22,
       "kg",
-      NaN
+      1.7e+18
+    ],
+    "mass of Eris": [
+      1.660e+22,
+      "kg",
+      1.3e+20
+    ],
+    "mass of Makemake": [
+      3.1e+21,
+      "kg",
+      3.0e+19
+    ],
+    "mass of Haumea": [
+      4.006e+21,
+      "kg",
+      4.0e+19
     ],
     "radius of Sun": [
-      696392000.0,
+      695823000.0,
       "m",
-      NaN
+      145000.0
     ],
     "radius of Mercury": [
-      2439700.0,
+      2439400.0,
       "m",
-      NaN
+      100.0
     ],
     "radius of Venus": [
       6051800.0,
       "m",
-      NaN
+      1000.0
     ],
     "radius of Earth": [
-      6371000.0,
+      6371008.4,
       "m",
-      NaN
+      0.1
     ],
     "radius of Mars": [
       3389500.0,
       "m",
-      NaN
+      200.0
     ],
     "radius of Ceres": [
-      473000.0,
+      469700.0,
       "m",
-      NaN
+      100.0
     ],
     "radius of Jupiter": [
       69911000.0,
       "m",
-      NaN
+      6000.0
     ],
     "radius of Saturn": [
       58232000.0,
       "m",
-      NaN
+      6000.0
     ],
     "radius of Uranus": [
       25362000.0,
       "m",
-      NaN
+      7000.0
     ],
     "radius of Neptune": [
       24622000.0,
       "m",
-      NaN
+      19000.0
     ],
     "radius of Pluto": [
       1188300.0,
       "m",
-      NaN
+      1600.0
     ],
     "radius of Moon": [
-      1737100.0,
+      1737400.0,
       "m",
-      NaN
+      100.0
+    ],
+    "radius of Eris": [
+      1200000.0,
+      "m",
+      50000.0
+    ],
+    "radius of Makemake": [
+      714000.0,
+      "m",
+      7000.0
+    ],
+    "radius of Haumea": [
+      715000.0,
+      "m",
+      7000.0
     ],
     "orbital radius of Sun": [
-      2.7e+20,
+      2.5235e+20,
       "m",
-      NaN
+      4.0e+17
     ],
     "orbital radius of Mercury": [
       57909050000.0,
       "m",
-      NaN
+      10000.0
     ],
     "orbital radius of Venus": [
-      108208000000.0,
+      108208930000.0,
       "m",
-      NaN
+      10000.0
     ],
     "orbital radius of Earth": [
       149598023000.0,
       "m",
-      NaN
+      1000.0
     ],
     "orbital radius of Mars": [
       227939200000.0,
       "m",
-      NaN
+      10000.0
     ],
     "orbital radius of Ceres": [
       414010000000.0,
       "m",
-      NaN
+      10000000.0
     ],
     "orbital radius of Jupiter": [
       778570000000.0,
       "m",
-      NaN
+      10000000.0
     ],
     "orbital radius of Saturn": [
       1433530000000.0,
       "m",
-      NaN
+      10000000.0
     ],
     "orbital radius of Uranus": [
       2875040000000.0,
       "m",
-      NaN
+      10000000.0
     ],
     "orbital radius of Neptune": [
       4504000000000.0,
       "m",
-      NaN
+      1000000000.0
     ],
     "orbital radius of Pluto": [
       5906380000000.0,
       "m",
-      NaN
+      10000000.0
     ],
     "orbital radius of Moon": [
       384399000.0,
       "m",
-      NaN
+      1000.0
+    ],
+    "surface gravity of Mercury":[
+      3.7,
+      "m s^-2",
+      0.1
+    ],
+    "surface gravity of Venus":[
+      8.9,
+      "m s^-2",
+      0.1
+    ],
+    "surface gravity of Earth":[
+      9.80665,
+      "m s^-2",
+      0.1
+    ],
+    "surface gravity of Mars":[
+      3.7,
+      "m s^-2",
+      0.1
+    ],
+    "surface gravity of Jupiter":[
+      23.1,
+      "m s^-2",
+      0.1
+    ],
+    "surface gravity of Saturn":[
+      9.0,
+      "m s^-2",
+      0.1
+    ],
+    "surface gravity of Uranus":[
+      8.7,
+      "m s^-2",
+      0.1
+    ],
+    "surface gravity of Neptune":[
+      11.0,
+      "m s^-2",
+      0.1
+    ],
+    "surface gravity of Pluto":[
+      3.7,
+      "m s^-2",
+      0.1
+    ],
+    "surface gravity of Moon":[
+      1.6,
+      "m s^-2",
+      0.1
     ],
     "astronomical unit": [
       149597870700.0,
       "m",
-      NaN
+      0
     ]
   },
   "fundamental physical": {
@@ -1153,7 +1233,7 @@
       0
     ],
     "molar gas constant": [
-      8.314462618,
+      8.31446261815324,
       "J mol^-1 K^-1",
       0
     ],
@@ -1479,12 +1559,12 @@
     ],
     "Planck constant": [
       6.62607015e-34,
-      "J Hz^-1",
+      "J s",
       0
     ],
     "Planck constant over 2pi": [
-      2.109143635292313e-34,
-      "J Hz^-1",
+      1.0545718176461565e-34,
+      "J s",
       0
     ],
     "Planck constant in eV/Hz": [
@@ -1961,6 +2041,16 @@
       0.88153,
       "",
       0.00017
+    ],
+    "light-year": [
+      9460730472580800.0,
+      "m",
+      0.0
+    ],
+    "parsec": [
+      30856775814913673,
+      "m",
+      0.0
     ]
   },
   "shortcuts": {
@@ -2108,6 +2198,50 @@
       "astronomical",
       "orbital radius of Moon"
     ],
+    "g_Mercury": [
+      "astronomical",
+      "surface gravity of Mercury"
+    ],
+    "g_Venus": [
+      "astronomical",
+      "surface gravity of Venus"
+    ],
+    "g": [
+      "astronomical",
+      "surface gravity of Earth"
+    ],
+    "g_Earth": [
+      "astronomical",
+      "surface gravity of Earth"
+    ],
+    "g_Mars": [
+      "astronomical",
+      "surface gravity of Mars"
+    ],
+    "g_Jupiter": [
+      "astronomical",
+      "surface gravity of Jupiter"
+    ],
+    "g_Saturn": [
+      "astronomical",
+      "surface gravity of Saturn"
+    ],
+    "g_Uranus": [
+      "astronomical",
+      "surface gravity of Uranus"
+    ],
+    "g_Neptune": [
+      "astronomical",
+      "surface gravity of Neptune"
+    ],
+    "g_Pluto": [
+      "astronomical",
+      "surface gravity of Pluto"
+    ],
+    "g_Moon": [
+      "astronomical",
+      "surface gravity of Moon"
+    ],
     "c": [
       "fundamental physical",
       "speed of light in vacuum"
@@ -2128,6 +2262,14 @@
       "fundamental physical",
       "Boltzmann constant"
     ],
+    "R": [
+      "fundamental physical",
+      "molar gas constant"
+    ],
+    "atm": [
+      "fundamental physical",
+      "standard atmosphere"
+    ],
     "NA": [
       "fundamental physical",
       "Avogadro constant"
@@ -2147,6 +2289,10 @@
     "m_e": [
       "fundamental physical",
       "electron mass"
+    ],
+    "LY": [
+      "fundamental physical",
+      "light-year"
     ],
     "AU": [
       "astronomical",
