@@ -1,7 +1,7 @@
 {
   "astronomical": {
     "mass of Sun": [
-      1.988410e+30,
+      1.98841e+30,
       "kg",
       4.5e+25
     ],
@@ -43,7 +43,7 @@
     "mass of Uranus": [
       8.68097e+25,
       "kg",
-      2.0e+21
+      2e+21
     ],
     "mass of Neptune": [
       1.024307e+26,
@@ -61,19 +61,19 @@
       1.7e+18
     ],
     "mass of Eris": [
-      1.660e+22,
+      1.66e+22,
       "kg",
       1.3e+20
     ],
     "mass of Makemake": [
       3.1e+21,
       "kg",
-      3.0e+19
+      3e+19
     ],
     "mass of Haumea": [
       4.006e+21,
       "kg",
-      4.0e+19
+      4e+19
     ],
     "radius of Sun": [
       695823000.0,
@@ -153,7 +153,7 @@
     "orbital radius of Sun": [
       2.5235e+20,
       "m",
-      4.0e+17
+      4e+17
     ],
     "orbital radius of Mercury": [
       57909050000.0,
@@ -210,52 +210,52 @@
       "m",
       1000.0
     ],
-    "surface gravity of Mercury":[
+    "surface gravity of Mercury": [
       3.7,
       "m s^-2",
       0.1
     ],
-    "surface gravity of Venus":[
+    "surface gravity of Venus": [
       8.9,
       "m s^-2",
       0.1
     ],
-    "surface gravity of Earth":[
+    "surface gravity of Earth": [
       9.80665,
       "m s^-2",
       0.1
     ],
-    "surface gravity of Mars":[
+    "surface gravity of Mars": [
       3.7,
       "m s^-2",
       0.1
     ],
-    "surface gravity of Jupiter":[
+    "surface gravity of Jupiter": [
       23.1,
       "m s^-2",
       0.1
     ],
-    "surface gravity of Saturn":[
+    "surface gravity of Saturn": [
       9.0,
       "m s^-2",
       0.1
     ],
-    "surface gravity of Uranus":[
+    "surface gravity of Uranus": [
       8.7,
       "m s^-2",
       0.1
     ],
-    "surface gravity of Neptune":[
+    "surface gravity of Neptune": [
       11.0,
       "m s^-2",
       0.1
     ],
-    "surface gravity of Pluto":[
+    "surface gravity of Pluto": [
       3.7,
       "m s^-2",
       0.1
     ],
-    "surface gravity of Moon":[
+    "surface gravity of Moon": [
       1.6,
       "m s^-2",
       0.1
@@ -268,44 +268,44 @@
   },
   "fundamental physical": {
     "alpha particle-electron mass ratio": [
-      7294.29954142,
+      7294.29954171,
       "",
-      2.4e-07
+      1.7e-07
     ],
     "alpha particle mass": [
-      6.6446573357e-27,
+      6.644657345e-27,
       "kg",
-      2e-36
+      2.1e-36
     ],
     "alpha particle mass energy equivalent": [
-      5.9719201914e-10,
+      5.9719201997e-10,
       "J",
-      1.8e-19
+      1.9e-19
     ],
     "alpha particle mass energy equivalent in MeV": [
-      3727.3794066,
+      3727.3794118,
       "MeV",
-      1.1e-06
+      1.2e-06
     ],
     "alpha particle mass in u": [
-      4.001506179127,
+      4.001506179129,
       "u",
-      6.3e-11
+      6.2e-11
     ],
     "alpha particle molar mass": [
-      0.0040015061777,
+      0.0040015061833,
       "kg mol^-1",
       1.2e-12
     ],
     "alpha particle-proton mass ratio": [
-      3.97259969009,
+      3.972599690252,
       "",
-      2.2e-10
+      7e-11
     ],
     "alpha particle relative atomic mass": [
-      4.001506179127,
+      4.001506179129,
       "",
-      6.3e-11
+      6.2e-11
     ],
     "Angstrom star": [
       1.00001495e-10,
@@ -313,289 +313,289 @@
       9e-17
     ],
     "atomic mass constant": [
-      1.6605390666e-27,
+      1.66053906892e-27,
       "kg",
-      5e-37
+      5.2e-37
     ],
     "atomic mass constant energy equivalent": [
-      1.4924180856e-10,
+      1.49241808768e-10,
       "J",
-      4.5e-20
+      4.6e-20
     ],
     "atomic mass constant energy equivalent in MeV": [
-      931.49410242,
+      931.49410372,
       "MeV",
-      2.8e-07
+      2.9e-07
     ],
     "atomic mass unit-electron volt relationship": [
-      931494102.42,
+      931494103.72,
       "eV",
-      0.28
+      0.29
     ],
     "atomic mass unit-hartree relationship": [
-      34231776.874,
+      34231776.922,
       "E_h",
-      0.01
+      0.011
     ],
     "atomic mass unit-hertz relationship": [
-      2.25234271871e+23,
+      2.25234272185e+23,
       "Hz",
-      68000000000000.0
+      70000000000000.0
     ],
     "atomic mass unit-inverse meter relationship": [
-      751300661040000.0,
+      751300662090000.0,
       "m^-1",
       230000.0
     ],
     "atomic mass unit-joule relationship": [
-      1.4924180856e-10,
+      1.49241808768e-10,
       "J",
-      4.5e-20
+      4.6e-20
     ],
     "atomic mass unit-kelvin relationship": [
-      10809540191600.0,
+      10809540206700.0,
       "K",
-      3300.0
+      3400.0
     ],
     "atomic mass unit-kilogram relationship": [
-      1.6605390666e-27,
+      1.66053906892e-27,
       "kg",
-      5e-37
+      5.2e-37
     ],
     "atomic unit of 1st hyperpolarizability": [
-      3.2063613061e-53,
+      3.2063612996e-53,
       "C^3 m^3 J^-2",
       1.5e-62
     ],
     "atomic unit of 2nd hyperpolarizability": [
-      6.2353799905e-65,
+      6.2353799735e-65,
       "C^4 m^4 J^-3",
-      3.8e-74
+      3.9e-74
     ],
     "atomic unit of action": [
-      1.054571817e-34,
+      1.0545718176461565e-34,
       "J s",
-      0
+      0.0
     ],
     "atomic unit of charge": [
       1.602176634e-19,
       "C",
-      0
+      0.0
     ],
     "atomic unit of charge density": [
-      1081202384570.0,
+      1081202386770.0,
       "C m^-3",
-      490.0
+      510.0
     ],
     "atomic unit of current": [
-      0.00662361823751,
+      0.0066236182375082,
       "A",
-      1.3e-14
+      7.2e-15
     ],
     "atomic unit of electric dipole mom.": [
-      8.4783536255e-30,
+      8.4783536198e-30,
       "C m",
       1.3e-39
     ],
     "atomic unit of electric field": [
-      514220674763.0,
+      514220675112.0,
       "V m^-1",
-      78.0
+      80.0
     ],
     "atomic unit of electric field gradient": [
-      9.7173624292e+21,
+      9.7173624424e+21,
       "V m^-2",
-      2900000000000.0
+      3000000000000.0
     ],
     "atomic unit of electric polarizability": [
-      1.64877727436e-41,
+      1.64877727212e-41,
       "C^2 m^2 J^-1",
-      5e-51
+      5.1e-51
     ],
     "atomic unit of electric potential": [
-      27.211386245988,
+      27.211386245981,
       "V",
-      5.3e-11
+      3e-11
     ],
     "atomic unit of electric quadrupole mom.": [
-      4.4865515246e-40,
+      4.4865515185e-40,
       "C m^2",
       1.4e-49
     ],
     "atomic unit of energy": [
-      4.3597447222071e-18,
+      4.359744722206e-18,
       "J",
-      8.5e-30
+      4.8e-30
     ],
     "atomic unit of force": [
-      8.2387234983e-08,
+      8.2387235038e-08,
       "N",
-      1.2e-17
+      1.3e-17
     ],
     "atomic unit of length": [
-      5.29177210903e-11,
+      5.29177210544e-11,
       "m",
-      8e-21
+      8.2e-21
     ],
     "atomic unit of mag. dipole mom.": [
-      1.85480201566e-23,
+      1.85480201315e-23,
       "J T^-1",
-      5.6e-33
+      5.8e-33
     ],
     "atomic unit of mag. flux density": [
-      235051.756758,
+      235051.757077,
       "T",
-      7.1e-05
+      7.3e-05
     ],
     "atomic unit of magnetizability": [
-      7.8910366008e-29,
+      7.8910365794e-29,
       "J T^-2",
-      4.8e-38
+      4.9e-38
     ],
     "atomic unit of mass": [
-      9.1093837015e-31,
+      9.1093837139e-31,
       "kg",
       2.8e-40
     ],
     "atomic unit of momentum": [
-      1.9928519141e-24,
+      1.99285191545e-24,
       "kg m s^-1",
-      3e-34
+      3.1e-34
     ],
     "atomic unit of permittivity": [
-      1.11265005545e-10,
+      1.1126500562e-10,
       "F m^-1",
       1.7e-20
     ],
     "atomic unit of time": [
-      2.4188843265857e-17,
+      2.4188843265864e-17,
       "s",
-      4.7e-29
+      2.6e-29
     ],
     "atomic unit of velocity": [
-      2187691.26364,
+      2187691.26216,
       "m s^-1",
-      0.00033
+      0.00034
     ],
     "Avogadro constant": [
       6.02214076e+23,
       "mol^-1",
-      0
+      0.0
     ],
     "Bohr magneton": [
-      9.2740100783e-24,
+      9.2740100657e-24,
       "J T^-1",
-      2.8e-33
+      2.9e-33
     ],
     "Bohr magneton in eV/T": [
-      5.788381806e-05,
+      5.7883817982e-05,
       "eV T^-1",
-      1.7e-14
+      1.8e-14
     ],
     "Bohr magneton in Hz/T": [
-      13996244936.1,
+      13996244917.1,
       "Hz T^-1",
-      4.2
+      4.4
     ],
     "Bohr magneton in inverse meter per tesla": [
-      46.686447783,
+      46.686447719,
       "m^-1 T^-1",
-      1.4e-08
+      1.5e-08
     ],
     "Bohr magneton in K/T": [
-      0.67171381563,
+      0.67171381472,
       "K T^-1",
-      2e-10
+      2.1e-10
     ],
     "Bohr radius": [
-      5.29177210903e-11,
+      5.29177210544e-11,
       "m",
-      8e-21
+      8.2e-21
     ],
     "Boltzmann constant": [
       1.380649e-23,
       "J K^-1",
-      0
+      0.0
     ],
     "Boltzmann constant in eV/K": [
-      8.617333262e-05,
+      8.617333262145179e-05,
       "eV K^-1",
-      0
+      0.0
     ],
     "Boltzmann constant in Hz/K": [
-      20836619120.0,
+      20836619123.327576,
       "Hz K^-1",
-      0
+      0.0
     ],
     "Boltzmann constant in inverse meter per kelvin": [
-      69.50348004,
+      69.50348004861274,
       "m^-1 K^-1",
-      0
+      0.0
     ],
     "characteristic impedance of vacuum": [
-      376.730313668,
+      376.730313412,
       "ohm",
-      5.7e-08
+      5.9e-08
     ],
     "classical electron radius": [
-      2.8179403262e-15,
+      2.8179403205e-15,
       "m",
       1.3e-24
     ],
     "Compton wavelength": [
-      2.42631023867e-12,
+      2.42631023538e-12,
       "m",
-      7.3e-22
+      7.6e-22
     ],
     "conductance quantum": [
-      7.748091729e-05,
+      7.748091729863649e-05,
       "S",
-      0
+      0.0
     ],
     "conventional value of ampere-90": [
-      1.00000008887,
+      1.000000088871438,
       "A",
-      0
+      0.0
     ],
     "conventional value of coulomb-90": [
-      1.00000008887,
+      1.000000088871438,
       "C",
-      0
+      0.0
     ],
     "conventional value of farad-90": [
-      0.9999999822,
+      0.9999999822063326,
       "F",
-      0
+      0.0
     ],
     "conventional value of henry-90": [
-      1.00000001779,
+      1.0000000177936679,
       "H",
-      0
+      0.0
     ],
     "conventional value of Josephson constant": [
       483597900000000.0,
       "Hz V^-1",
-      0
+      0.0
     ],
     "conventional value of ohm-90": [
-      1.00000001779,
+      1.0000000177936679,
       "ohm",
-      0
+      0.0
     ],
     "conventional value of volt-90": [
-      1.00000010666,
+      1.0000001066651072,
       "V",
-      0
+      0.0
     ],
     "conventional value of von Klitzing constant": [
       25812.807,
       "ohm",
-      0
+      0.0
     ],
     "conventional value of watt-90": [
-      1.00000019553,
+      1.0000001955365545,
       "W",
-      0
+      0.0
     ],
     "Copper x unit": [
       1.00207697e-13,
@@ -603,199 +603,199 @@
       2.8e-20
     ],
     "deuteron-electron mag. mom. ratio": [
-      -0.0004664345551,
+      -0.000466434555,
       "",
       1.2e-12
     ],
     "deuteron-electron mass ratio": [
-      3670.48296788,
+      3670.482967655,
       "",
-      1.3e-07
+      6.3e-08
     ],
     "deuteron g factor": [
-      0.8574382338,
+      0.8574382335,
       "",
       2.2e-09
     ],
     "deuteron mag. mom.": [
-      4.330735094e-27,
+      4.330735087e-27,
       "J T^-1",
       1.1e-35
     ],
     "deuteron mag. mom. to Bohr magneton ratio": [
-      0.000466975457,
+      0.0004669754568,
       "",
       1.2e-12
     ],
     "deuteron mag. mom. to nuclear magneton ratio": [
-      0.8574382338,
+      0.8574382335,
       "",
       2.2e-09
     ],
     "deuteron mass": [
-      3.3435837724e-27,
+      3.3435837768e-27,
       "kg",
       1e-36
     ],
     "deuteron mass energy equivalent": [
-      3.00506323102e-10,
+      3.00506323491e-10,
       "J",
-      9.1e-20
+      9.4e-20
     ],
     "deuteron mass energy equivalent in MeV": [
-      1875.61294257,
+      1875.612945,
       "MeV",
-      5.7e-07
+      5.8e-07
     ],
     "deuteron mass in u": [
-      2.013553212745,
+      2.013553212544,
       "u",
-      4e-11
+      1.5e-11
     ],
     "deuteron molar mass": [
-      0.00201355321205,
+      0.00201355321466,
       "kg mol^-1",
-      6.1e-13
+      6.3e-13
     ],
     "deuteron-neutron mag. mom. ratio": [
-      -0.44820653,
+      -0.44820652,
       "",
       1.1e-07
     ],
     "deuteron-proton mag. mom. ratio": [
-      0.30701220939,
+      0.3070122093,
       "",
       7.9e-10
     ],
     "deuteron-proton mass ratio": [
-      1.99900750139,
+      1.9990075012699,
       "",
-      1.1e-10
+      8.4e-12
     ],
     "deuteron relative atomic mass": [
-      2.013553212745,
+      2.013553212544,
       "",
-      4e-11
+      1.5e-11
     ],
     "deuteron rms charge radius": [
-      2.12799e-15,
+      2.12778e-15,
       "m",
-      7.4e-19
+      2.7e-19
     ],
     "electron charge to mass quotient": [
-      -175882001076.0,
+      -175882000838.0,
       "C kg^-1",
-      53.0
+      55.0
     ],
     "electron-deuteron mag. mom. ratio": [
-      -2143.9234915,
+      -2143.9234921,
       "",
       5.6e-06
     ],
     "electron-deuteron mass ratio": [
-      0.0002724437107462,
+      0.0002724437107629,
       "",
-      9.6e-15
+      4.7e-15
     ],
     "electron g factor": [
-      -2.00231930436256,
+      -2.00231930436092,
       "",
-      3.5e-13
+      3.6e-13
     ],
     "electron gyromag. ratio": [
-      176085963023.0,
+      176085962784.0,
       "s^-1 T^-1",
-      53.0
+      55.0
     ],
     "electron gyromag. ratio in MHz/T": [
-      28024.9514242,
+      28024.9513861,
       "MHz T^-1",
-      8.5e-06
+      8.7e-06
     ],
     "electron-helion mass ratio": [
-      0.0001819543074573,
+      0.0001819543074649,
       "",
-      7.9e-15
+      5.3e-15
     ],
     "electron mag. mom.": [
-      -9.2847647043e-24,
+      -9.2847646917e-24,
       "J T^-1",
-      2.8e-33
+      2.9e-33
     ],
     "electron mag. mom. anomaly": [
-      0.00115965218128,
+      0.00115965218046,
       "",
       1.8e-13
     ],
     "electron mag. mom. to Bohr magneton ratio": [
-      -1.00115965218128,
+      -1.00115965218046,
       "",
       1.8e-13
     ],
     "electron mag. mom. to nuclear magneton ratio": [
-      -1838.28197188,
+      -1838.281971877,
       "",
-      1.1e-07
+      3.2e-08
     ],
     "electron mass": [
-      9.1093837015e-31,
+      9.1093837139e-31,
       "kg",
       2.8e-40
     ],
     "electron mass energy equivalent": [
-      8.1871057769e-14,
+      8.187105788e-14,
       "J",
-      2.5e-23
+      2.6e-23
     ],
     "electron mass energy equivalent in MeV": [
-      0.51099895,
+      0.51099895069,
       "MeV",
-      1.5e-10
+      1.6e-10
     ],
     "electron mass in u": [
-      0.000548579909065,
+      0.0005485799090441,
       "u",
-      1.6e-14
+      9.7e-15
     ],
     "electron molar mass": [
-      5.4857990888e-07,
+      5.4857990962e-07,
       "kg mol^-1",
       1.7e-16
     ],
     "electron-muon mag. mom. ratio": [
-      206.7669883,
+      206.7669881,
       "",
       4.6e-06
     ],
     "electron-muon mass ratio": [
-      0.00483633169,
+      0.0048363317,
       "",
       1.1e-10
     ],
     "electron-neutron mag. mom. ratio": [
-      960.9205,
+      960.92048,
       "",
       0.00023
     ],
     "electron-neutron mass ratio": [
-      0.00054386734424,
+      0.00054386734416,
       "",
-      2.6e-13
+      2.2e-13
     ],
     "electron-proton mag. mom. ratio": [
       -658.21068789,
       "",
-      2e-07
+      1.9e-07
     ],
     "electron-proton mass ratio": [
-      0.000544617021487,
+      0.0005446170214889,
       "",
-      3.3e-14
+      9.4e-15
     ],
     "electron relative atomic mass": [
-      0.000548579909065,
+      0.0005485799090441,
       "",
-      1.6e-14
+      9.7e-15
     ],
     "electron-tau mass ratio": [
       0.000287585,
@@ -803,79 +803,79 @@
       1.9e-08
     ],
     "electron to alpha particle mass ratio": [
-      0.0001370933554787,
+      0.0001370933554733,
       "",
-      4.5e-15
+      3.2e-15
     ],
     "electron to shielded helion mag. mom. ratio": [
-      864.058257,
+      864.05823986,
       "",
-      1e-05
+      7e-07
     ],
     "electron to shielded proton mag. mom. ratio": [
-      -658.2275971,
+      -658.2275856,
       "",
-      7.2e-06
+      2.7e-06
     ],
     "electron-triton mass ratio": [
-      0.0001819200062251,
+      0.0001819200062327,
       "",
-      9e-15
+      6.8e-15
     ],
     "electron volt": [
       1.602176634e-19,
       "J",
-      0
+      0.0
     ],
     "electron volt-atomic mass unit relationship": [
-      1.07354410233e-09,
+      1.07354410083e-09,
       "u",
-      3.2e-19
+      3.3e-19
     ],
     "electron volt-hartree relationship": [
-      0.036749322175655,
+      0.036749322175665,
       "E_h",
-      7.1e-14
+      4e-14
     ],
     "electron volt-hertz relationship": [
-      241798924200000.0,
+      241798924208491.8,
       "Hz",
-      0
+      0.0
     ],
     "electron volt-inverse meter relationship": [
-      806554.3937,
+      806554.3937349211,
       "m^-1",
-      0
+      0.0
     ],
     "electron volt-joule relationship": [
       1.602176634e-19,
       "J",
-      0
+      0.0
     ],
     "electron volt-kelvin relationship": [
-      11604.51812,
+      11604.518121550082,
       "K",
-      0
+      0.0
     ],
     "electron volt-kilogram relationship": [
-      1.782661921e-36,
+      1.7826619216278975e-36,
       "kg",
-      0
+      0.0
     ],
     "elementary charge": [
       1.602176634e-19,
       "C",
-      0
+      0.0
     ],
     "elementary charge over h-bar": [
-      1519267447000000.0,
+      1519267447878626.0,
       "A J^-1",
-      0
+      0.0
     ],
     "Faraday constant": [
-      96485.33212,
+      96485.33212331001,
       "C mol^-1",
-      0
+      0.0
     ],
     "Fermi coupling constant": [
       1.1663787e-05,
@@ -883,324 +883,324 @@
       6e-12
     ],
     "fine-structure constant": [
-      0.0072973525693,
+      0.0072973525643,
       "",
       1.1e-12
     ],
     "first radiation constant": [
-      3.741771852e-16,
+      3.7417718521927573e-16,
       "W m^2",
-      0
+      0.0
     ],
     "first radiation constant for spectral radiance": [
-      1.191042972e-16,
+      1.1910429723971884e-16,
       "W m^2 sr^-1",
-      0
+      0.0
     ],
     "hartree-atomic mass unit relationship": [
-      2.92126232205e-08,
+      2.92126231797e-08,
       "u",
-      8.8e-18
+      9.1e-18
     ],
     "hartree-electron volt relationship": [
-      27.211386245988,
+      27.211386245981,
       "eV",
-      5.3e-11
+      3e-11
     ],
     "Hartree energy": [
-      4.3597447222071e-18,
+      4.359744722206e-18,
       "J",
-      8.5e-30
+      4.8e-30
     ],
     "Hartree energy in eV": [
-      27.211386245988,
+      27.211386245981,
       "eV",
-      5.3e-11
+      3e-11
     ],
     "hartree-hertz relationship": [
-      6579683920502000.0,
+      6579683920499900.0,
       "Hz",
-      13000.0
+      7200.0
     ],
     "hartree-inverse meter relationship": [
-      21947463.13632,
+      21947463.136314,
       "m^-1",
-      4.3e-05
+      2.4e-05
     ],
     "hartree-joule relationship": [
-      4.3597447222071e-18,
+      4.359744722206e-18,
       "J",
-      8.5e-30
+      4.8e-30
     ],
     "hartree-kelvin relationship": [
-      315775.02480407,
+      315775.02480398,
       "K",
-      6.1e-07
+      3.4e-07
     ],
     "hartree-kilogram relationship": [
-      4.8508702095432e-35,
+      4.8508702095419e-35,
       "kg",
-      9.4e-47
+      5.3e-47
     ],
     "helion-electron mass ratio": [
-      5495.88528007,
+      5495.88527984,
       "",
-      2.4e-07
+      1.6e-07
     ],
     "helion g factor": [
-      -4.255250615,
+      -4.2552506995,
       "",
-      5e-08
+      3.4e-09
     ],
     "helion mag. mom.": [
-      -1.074617532e-26,
+      -1.07461755198e-26,
       "J T^-1",
-      1.3e-34
+      9.3e-36
     ],
     "helion mag. mom. to Bohr magneton ratio": [
-      -0.001158740958,
+      -0.00115874098083,
       "",
-      1.4e-11
+      9.4e-13
     ],
     "helion mag. mom. to nuclear magneton ratio": [
-      -2.127625307,
+      -2.1276253498,
       "",
-      2.5e-08
+      1.7e-09
     ],
     "helion mass": [
-      5.0064127796e-27,
+      5.0064127862e-27,
       "kg",
-      1.5e-36
+      1.6e-36
     ],
     "helion mass energy equivalent": [
-      4.4995394125e-10,
+      4.4995394185e-10,
       "J",
       1.4e-19
     ],
     "helion mass energy equivalent in MeV": [
-      2808.39160743,
+      2808.39161112,
       "MeV",
-      8.5e-07
+      8.8e-07
     ],
     "helion mass in u": [
-      3.014932247175,
+      3.014932246932,
       "u",
-      9.7e-11
+      7.4e-11
     ],
     "helion molar mass": [
-      0.00301493224613,
+      0.0030149322501,
       "kg mol^-1",
-      9.1e-13
+      9.4e-13
     ],
     "helion-proton mass ratio": [
-      2.99315267167,
+      2.993152671552,
       "",
-      1.3e-10
+      7e-11
     ],
     "helion relative atomic mass": [
-      3.014932247175,
+      3.014932246932,
       "",
-      9.7e-11
+      7.4e-11
     ],
     "helion shielding shift": [
-      5.996743e-05,
+      5.9967029e-05,
       "",
-      1e-10
+      2.3e-11
     ],
     "hertz-atomic mass unit relationship": [
-      4.4398216652e-24,
+      4.439821659e-24,
       "u",
-      1.3e-33
+      1.4e-33
     ],
     "hertz-electron volt relationship": [
-      4.135667696e-15,
+      4.135667696923859e-15,
       "eV",
-      0
+      0.0
     ],
     "hertz-hartree relationship": [
-      1.519829846057e-16,
+      1.5198298460574e-16,
       "E_h",
-      2.9e-28
+      1.7e-28
     ],
     "hertz-inverse meter relationship": [
-      3.335640951e-09,
+      3.3356409519815204e-09,
       "m^-1",
-      0
+      0.0
     ],
     "hertz-joule relationship": [
       6.62607015e-34,
       "J",
-      0
+      0.0
     ],
     "hertz-kelvin relationship": [
-      4.799243073e-11,
+      4.799243073366221e-11,
       "K",
-      0
+      0.0
     ],
     "hertz-kilogram relationship": [
-      7.372497323e-51,
+      7.372497323812708e-51,
       "kg",
-      0
+      0.0
     ],
     "hyperfine transition frequency of Cs-133": [
       9192631770.0,
       "Hz",
-      0
+      0.0
     ],
     "inverse fine-structure constant": [
-      137.035999084,
+      137.035999177,
       "",
       2.1e-08
     ],
     "inverse meter-atomic mass unit relationship": [
-      1.3310250501e-15,
+      1.33102504824e-15,
       "u",
-      4e-25
+      4.1e-25
     ],
     "inverse meter-electron volt relationship": [
-      1.239841984e-06,
+      1.2398419843320026e-06,
       "eV",
-      0
+      0.0
     ],
     "inverse meter-hartree relationship": [
-      4.556335252912e-08,
+      4.5563352529132e-08,
       "E_h",
-      8.8e-20
+      5e-20
     ],
     "inverse meter-hertz relationship": [
       299792458.0,
       "Hz",
-      0
+      0.0
     ],
     "inverse meter-joule relationship": [
-      1.986445857e-25,
+      1.9864458571489286e-25,
       "J",
-      0
+      0.0
     ],
     "inverse meter-kelvin relationship": [
-      0.01438776877,
+      0.014387768775039337,
       "K",
-      0
+      0.0
     ],
     "inverse meter-kilogram relationship": [
-      2.210219094e-42,
+      2.2102190943042335e-42,
       "kg",
-      0
+      0.0
     ],
     "inverse of conductance quantum": [
-      12906.40372,
+      12906.403729652257,
       "ohm",
-      0
+      0.0
     ],
     "Josephson constant": [
-      483597848400000.0,
+      483597848416983.6,
       "Hz V^-1",
-      0
+      0.0
     ],
     "joule-atomic mass unit relationship": [
-      6700535256.5,
+      6700535247.1,
       "u",
-      2.0
+      2.1
     ],
     "joule-electron volt relationship": [
-      6.241509074e+18,
+      6.241509074460763e+18,
       "eV",
-      0
+      0.0
     ],
     "joule-hartree relationship": [
-      2.2937122783963e+17,
+      2.2937122783969e+17,
       "E_h",
-      450000.0
+      250000.0
     ],
     "joule-hertz relationship": [
-      1.509190179e+33,
+      1.5091901796421518e+33,
       "Hz",
-      0
+      0.0
     ],
     "joule-inverse meter relationship": [
-      5.034116567e+24,
+      5.034116567542709e+24,
       "m^-1",
-      0
+      0.0
     ],
     "joule-kelvin relationship": [
-      7.242970516e+22,
+      7.24297051603992e+22,
       "K",
-      0
+      0.0
     ],
     "joule-kilogram relationship": [
-      1.112650056e-17,
+      1.1126500560536185e-17,
       "kg",
-      0
+      0.0
     ],
     "kelvin-atomic mass unit relationship": [
-      9.2510873014e-14,
+      9.251087288415863e-14,
       "u",
-      2.8e-23
+      2.9e-23
     ],
     "kelvin-electron volt relationship": [
-      8.617333262e-05,
+      8.617333262145179e-05,
       "eV",
-      0
+      0.0
     ],
     "kelvin-hartree relationship": [
-      3.1668115634556e-06,
+      3.1668115634564e-06,
       "E_h",
-      6.1e-18
+      3.5e-18
     ],
     "kelvin-hertz relationship": [
-      20836619120.0,
+      20836619123.327576,
       "Hz",
-      0
+      0.0
     ],
     "kelvin-inverse meter relationship": [
-      69.50348004,
+      69.50348004861274,
       "m^-1",
-      0
+      0.0
     ],
     "kelvin-joule relationship": [
       1.380649e-23,
       "J",
-      0
+      0.0
     ],
     "kelvin-kilogram relationship": [
-      1.536179187e-40,
+      1.5361791872403723e-40,
       "kg",
-      0
+      0.0
     ],
     "kilogram-atomic mass unit relationship": [
-      6.0221407621e+26,
+      6.0221407537e+26,
       "u",
-      1.8e+17
+      1.9e+17
     ],
     "kilogram-electron volt relationship": [
-      5.609588603e+35,
+      5.609588603804452e+35,
       "eV",
-      0
+      0.0
     ],
     "kilogram-hartree relationship": [
-      2.0614857887409e+34,
+      2.0614857887415e+34,
       "E_h",
-      4e+22
+      2.2e+22
     ],
     "kilogram-hertz relationship": [
-      1.356392489e+50,
+      1.3563924896521321e+50,
       "Hz",
-      0
+      0.0
     ],
     "kilogram-inverse meter relationship": [
-      4.524438335e+41,
+      4.524438335443823e+41,
       "m^-1",
-      0
+      0.0
     ],
     "kilogram-joule relationship": [
-      8.987551787e+16,
+      8.987551787368176e+16,
       "J",
-      0
+      0.0
     ],
     "kilogram-kelvin relationship": [
-      6.50965726e+39,
+      6.509657260728958e+39,
       "K",
-      0
+      0.0
     ],
     "lattice parameter of silicon": [
       5.431020511e-10,
@@ -1213,54 +1213,54 @@
       3.2e-18
     ],
     "Loschmidt constant (273.15 K, 100 kPa)": [
-      2.651645804e+25,
+      2.6516458049326056e+25,
       "m^-3",
-      0
+      0.0
     ],
     "Loschmidt constant (273.15 K, 101.325 kPa)": [
-      2.686780111e+25,
+      2.6867801118479623e+25,
       "m^-3",
-      0
+      0.0
     ],
     "luminous efficacy": [
       683.0,
       "lm W^-1",
-      0
+      0.0
     ],
     "mag. flux quantum": [
-      2.067833848e-15,
+      2.0678338484619295e-15,
       "Wb",
-      0
+      0.0
     ],
     "molar gas constant": [
       8.31446261815324,
       "J mol^-1 K^-1",
-      0
+      0.0
     ],
     "molar mass constant": [
-      0.00099999999965,
+      0.00100000000105,
       "kg mol^-1",
-      3e-13
+      3.1e-13
     ],
     "molar mass of carbon-12": [
-      0.0119999999958,
+      0.0120000000126,
       "kg mol^-1",
-      3.6e-12
+      3.7e-12
     ],
     "molar Planck constant": [
-      3.990312712e-10,
+      3.990312712893431e-10,
       "J Hz^-1 mol^-1",
-      0
+      0.0
     ],
     "molar volume of ideal gas (273.15 K, 100 kPa)": [
-      0.02271095464,
+      0.02271095464148557,
       "m^3 mol^-1",
-      0
+      0.0
     ],
     "molar volume of ideal gas (273.15 K, 101.325 kPa)": [
-      0.02241396954,
+      0.022413969545014137,
       "m^3 mol^-1",
-      0
+      0.0
     ],
     "molar volume of silicon": [
       1.205883199e-05,
@@ -1278,14 +1278,14 @@
       2.6e-22
     ],
     "muon-electron mass ratio": [
-      206.768283,
+      206.7682827,
       "",
       4.6e-06
     ],
     "muon g factor": [
-      -2.0023318418,
+      -2.00233184123,
       "",
-      1.3e-09
+      8.2e-10
     ],
     "muon mag. mom.": [
       -4.4904483e-26,
@@ -1293,17 +1293,17 @@
       1e-33
     ],
     "muon mag. mom. anomaly": [
-      0.00116592089,
+      0.00116592062,
       "",
-      6.3e-10
+      4.1e-10
     ],
     "muon mag. mom. to Bohr magneton ratio": [
-      -0.00484197047,
+      -0.00484197048,
       "",
       1.1e-10
     ],
     "muon mag. mom. to nuclear magneton ratio": [
-      -8.89059703,
+      -8.89059704,
       "",
       2e-07
     ],
@@ -1323,27 +1323,27 @@
       2.3e-06
     ],
     "muon mass in u": [
-      0.1134289259,
+      0.1134289257,
       "u",
       2.5e-09
     ],
     "muon molar mass": [
-      0.0001134289259,
+      0.0001134289258,
       "kg mol^-1",
       2.5e-12
     ],
     "muon-neutron mass ratio": [
-      0.112454517,
+      0.1124545168,
       "",
       2.5e-09
     ],
     "muon-proton mag. mom. ratio": [
-      -3.183345142,
+      -3.183345146,
       "",
       7.1e-08
     ],
     "muon-proton mass ratio": [
-      0.1126095264,
+      0.1126095262,
       "",
       2.5e-09
     ],
@@ -1353,164 +1353,164 @@
       4e-06
     ],
     "natural unit of action": [
-      1.054571817e-34,
+      1.0545718176461565e-34,
       "J s",
-      0
+      0.0
     ],
     "natural unit of action in eV s": [
-      6.582119569e-16,
+      6.582119569509067e-16,
       "eV s",
-      0
+      0.0
     ],
     "natural unit of energy": [
-      8.1871057769e-14,
+      8.187105788e-14,
       "J",
-      2.5e-23
+      2.6e-23
     ],
     "natural unit of energy in MeV": [
-      0.51099895,
+      0.51099895069,
       "MeV",
-      1.5e-10
+      1.6e-10
     ],
     "natural unit of length": [
-      3.8615926796e-13,
+      3.8615926744e-13,
       "m",
       1.2e-22
     ],
     "natural unit of mass": [
-      9.1093837015e-31,
+      9.1093837139e-31,
       "kg",
       2.8e-40
     ],
     "natural unit of momentum": [
-      2.73092453075e-22,
+      2.73092453446e-22,
       "kg m s^-1",
-      8.2e-32
+      8.5e-32
     ],
     "natural unit of momentum in MeV/c": [
-      0.51099895,
+      0.51099895069,
       "MeV/c",
-      1.5e-10
+      1.6e-10
     ],
     "natural unit of time": [
-      1.28808866819e-21,
+      1.28808866644e-21,
       "s",
-      3.9e-31
+      4e-31
     ],
     "natural unit of velocity": [
       299792458.0,
       "m s^-1",
-      0
+      0.0
     ],
     "neutron Compton wavelength": [
-      1.31959090581e-15,
+      1.31959090382e-15,
       "m",
-      7.5e-25
+      6.7e-25
     ],
     "neutron-electron mag. mom. ratio": [
-      0.00104066882,
+      0.00104066884,
       "",
-      2.5e-10
+      2.4e-10
     ],
     "neutron-electron mass ratio": [
-      1838.68366173,
+      1838.683662,
       "",
-      8.9e-07
+      7.4e-07
     ],
     "neutron g factor": [
-      -3.82608545,
+      -3.82608552,
       "",
       9e-07
     ],
     "neutron gyromag. ratio": [
-      183247171.0,
+      183247174.0,
       "s^-1 T^-1",
       43.0
     ],
     "neutron gyromag. ratio in MHz/T": [
-      29.1646931,
+      29.1646935,
       "MHz T^-1",
       6.9e-06
     ],
     "neutron mag. mom.": [
-      -9.6623651e-27,
+      -9.6623653e-27,
       "J T^-1",
       2.3e-33
     ],
     "neutron mag. mom. to Bohr magneton ratio": [
-      -0.00104187563,
+      -0.00104187565,
       "",
       2.5e-10
     ],
     "neutron mag. mom. to nuclear magneton ratio": [
-      -1.91304273,
+      -1.91304276,
       "",
       4.5e-07
     ],
     "neutron mass": [
-      1.67492749804e-27,
+      1.67492750056e-27,
       "kg",
-      9.5e-37
+      8.5e-37
     ],
     "neutron mass energy equivalent": [
-      1.50534976287e-10,
+      1.50534976514e-10,
       "J",
-      8.6e-20
+      7.6e-20
     ],
     "neutron mass energy equivalent in MeV": [
-      939.56542052,
+      939.56542194,
       "MeV",
-      5.4e-07
+      4.8e-07
     ],
     "neutron mass in u": [
-      1.00866491595,
+      1.00866491606,
       "u",
-      4.9e-10
+      4e-10
     ],
     "neutron molar mass": [
-      0.0010086649156,
+      0.00100866491712,
       "kg mol^-1",
-      5.7e-13
+      5.1e-13
     ],
     "neutron-muon mass ratio": [
-      8.89248406,
+      8.89248408,
       "",
       2e-07
     ],
     "neutron-proton mag. mom. ratio": [
-      -0.68497934,
+      -0.68497935,
       "",
       1.6e-07
     ],
     "neutron-proton mass difference": [
-      2.30557435e-30,
+      2.30557461e-30,
       "kg",
-      8.2e-37
+      6.7e-37
     ],
     "neutron-proton mass difference energy equivalent": [
-      2.07214689e-13,
+      2.07214712e-13,
       "J",
-      7.4e-20
+      6e-20
     ],
     "neutron-proton mass difference energy equivalent in MeV": [
-      1.29333236,
+      1.29333251,
       "MeV",
-      4.6e-07
+      3.8e-07
     ],
     "neutron-proton mass difference in u": [
-      0.00138844933,
+      0.00138844948,
       "u",
-      4.9e-10
+      4e-10
     ],
     "neutron-proton mass ratio": [
-      1.00137841931,
+      1.00137841946,
       "",
-      4.9e-10
+      4e-10
     ],
     "neutron relative atomic mass": [
-      1.00866491595,
+      1.00866491606,
       "",
-      4.9e-10
+      4e-10
     ],
     "neutron-tau mass ratio": [
       0.528779,
@@ -1533,44 +1533,39 @@
       1.5e-43
     ],
     "nuclear magneton": [
-      5.0507837461e-27,
+      5.0507837393e-27,
       "J T^-1",
-      1.5e-36
+      1.6e-36
     ],
     "nuclear magneton in eV/T": [
-      3.15245125844e-08,
+      3.15245125417e-08,
       "eV T^-1",
-      9.6e-18
+      9.8e-18
     ],
     "nuclear magneton in inverse meter per tesla": [
-      0.0254262341353,
+      0.0254262341009,
       "m^-1 T^-1",
-      7.8e-12
+      7.9e-12
     ],
     "nuclear magneton in K/T": [
-      0.00036582677756,
+      0.00036582677706,
       "K T^-1",
       1.1e-13
     ],
     "nuclear magneton in MHz/T": [
-      7.6225932291,
+      7.6225932188,
       "MHz T^-1",
-      2.3e-09
+      2.4e-09
     ],
     "Planck constant": [
       6.62607015e-34,
-      "J s",
-      0
-    ],
-    "Planck constant over 2pi": [
-      1.0545718176461565e-34,
-      "J s",
-      0
+      "J Hz^-1",
+      0.0
     ],
     "Planck constant in eV/Hz": [
-      4.135667696e-15,
+      4.135667696923859e-15,
       "eV Hz^-1",
-      0
+      0.0
     ],
     "Planck length": [
       1.616255e-35,
@@ -1598,19 +1593,19 @@
       6e-49
     ],
     "proton charge to mass quotient": [
-      95788331.56,
+      95788331.43,
       "C kg^-1",
-      0.029
+      0.03
     ],
     "proton Compton wavelength": [
-      1.32140985539e-15,
+      1.3214098536e-15,
       "m",
-      4e-25
+      4.1e-25
     ],
     "proton-electron mass ratio": [
-      1836.15267343,
+      1836.152673426,
       "",
-      1.1e-07
+      3.2e-08
     ],
     "proton g factor": [
       5.5856946893,
@@ -1618,24 +1613,24 @@
       1.6e-09
     ],
     "proton gyromag. ratio": [
-      267522187.44,
+      267522187.08,
       "s^-1 T^-1",
       0.11
     ],
     "proton gyromag. ratio in MHz/T": [
-      42.577478518,
+      42.577478461,
       "MHz T^-1",
       1.8e-08
     ],
     "proton mag. mom.": [
-      1.41060679736e-26,
+      1.41060679545e-26,
       "J T^-1",
       6e-36
     ],
     "proton mag. mom. to Bohr magneton ratio": [
       0.0015210322023,
       "",
-      4.6e-13
+      4.5e-13
     ],
     "proton mag. mom. to nuclear magneton ratio": [
       2.79284734463,
@@ -1643,59 +1638,59 @@
       8.2e-10
     ],
     "proton mag. shielding correction": [
-      2.5689e-05,
+      2.56715e-05,
       "",
-      1.1e-08
+      4.1e-09
     ],
     "proton mass": [
-      1.67262192369e-27,
+      1.67262192595e-27,
       "kg",
-      5.1e-37
+      5.2e-37
     ],
     "proton mass energy equivalent": [
-      1.50327761598e-10,
+      1.50327761802e-10,
       "J",
-      4.6e-20
+      4.7e-20
     ],
     "proton mass energy equivalent in MeV": [
-      938.27208816,
+      938.27208943,
       "MeV",
       2.9e-07
     ],
     "proton mass in u": [
-      1.007276466621,
+      1.0072764665789,
       "u",
-      5.3e-11
+      8.3e-12
     ],
     "proton molar mass": [
-      0.00100727646627,
+      0.00100727646764,
       "kg mol^-1",
       3.1e-13
     ],
     "proton-muon mass ratio": [
-      8.88024337,
+      8.88024338,
       "",
       2e-07
     ],
     "proton-neutron mag. mom. ratio": [
-      -1.45989805,
+      -1.45989802,
       "",
       3.4e-07
     ],
     "proton-neutron mass ratio": [
-      0.99862347812,
+      0.99862347797,
       "",
-      4.9e-10
+      4e-10
     ],
     "proton relative atomic mass": [
-      1.007276466621,
+      1.0072764665789,
       "",
-      5.3e-11
+      8.3e-12
     ],
     "proton rms charge radius": [
-      8.414e-16,
+      8.4075e-16,
       "m",
-      1.9e-18
+      6.4e-19
     ],
     "proton-tau mass ratio": [
       0.528051,
@@ -1703,17 +1698,17 @@
       3.6e-05
     ],
     "quantum of circulation": [
-      0.00036369475516,
+      0.00036369475467,
       "m^2 s^-1",
       1.1e-13
     ],
     "quantum of circulation times 2": [
-      0.00072738951032,
+      0.00072738950934,
       "m^2 s^-1",
-      2.2e-13
+      2.3e-13
     ],
     "reduced Compton wavelength": [
-      3.8615926796e-13,
+      3.8615926744e-13,
       "m",
       1.2e-22
     ],
@@ -1723,29 +1718,29 @@
       4.2e-23
     ],
     "reduced neutron Compton wavelength": [
-      2.1001941552e-16,
+      2.100194152e-16,
       "m",
-      1.2e-25
+      1.1e-25
     ],
     "reduced Planck constant": [
-      1.054571817e-34,
+      1.0545718176461565e-34,
       "J s",
-      0
+      0.0
     ],
     "reduced Planck constant in eV s": [
-      6.582119569e-16,
+      6.582119569509067e-16,
       "eV s",
-      0
+      0.0
     ],
     "reduced Planck constant times c in MeV fm": [
-      197.3269804,
+      197.3269804593025,
       "MeV fm",
-      0
+      0.0
     ],
     "reduced proton Compton wavelength": [
-      2.10308910336e-16,
+      2.1030891005139573e-16,
       "m",
-      6.4e-26
+      6.6e-26
     ],
     "reduced tau Compton wavelength": [
       1.110538e-16,
@@ -1758,129 +1753,129 @@
       1.2e-05
     ],
     "Rydberg constant times c in Hz": [
-      3289841960250800.0,
+      3289841960250000.0,
       "Hz",
-      6400.0
+      3600.0
     ],
     "Rydberg constant times hc in eV": [
-      13.605693122994,
+      13.60569312299,
       "eV",
-      2.6e-11
+      1.5e-11
     ],
     "Rydberg constant times hc in J": [
-      2.1798723611035e-18,
+      2.179872361103e-18,
       "J",
-      4.2e-30
+      2.4e-30
     ],
     "Sackur-Tetrode constant (1 K, 100 kPa)": [
-      -1.15170753706,
+      -1.15170753496,
       "",
-      4.5e-10
+      4.7e-10
     ],
     "Sackur-Tetrode constant (1 K, 101.325 kPa)": [
-      -1.16487052358,
+      -1.16487052149,
       "",
-      4.5e-10
+      4.7e-10
     ],
     "second radiation constant": [
-      0.01438776877,
+      0.014387768775039337,
       "m K",
-      0
+      0.0
     ],
     "shielded helion gyromag. ratio": [
-      203789456.9,
+      203789460.78,
       "s^-1 T^-1",
-      2.4
+      0.18
     ],
     "shielded helion gyromag. ratio in MHz/T": [
-      32.43409942,
+      32.434100033,
       "MHz T^-1",
-      3.8e-07
+      2.8e-08
     ],
     "shielded helion mag. mom.": [
-      -1.07455309e-26,
+      -1.07455311035e-26,
       "J T^-1",
-      1.3e-34
+      9.3e-36
     ],
     "shielded helion mag. mom. to Bohr magneton ratio": [
-      -0.001158671471,
+      -0.00115867149457,
       "",
-      1.4e-11
+      9.4e-13
     ],
     "shielded helion mag. mom. to nuclear magneton ratio": [
-      -2.127497719,
+      -2.1274977624,
       "",
-      2.5e-08
+      1.7e-09
     ],
     "shielded helion to proton mag. mom. ratio": [
-      -0.7617665618,
+      -0.76176657721,
       "",
-      8.9e-09
+      6.6e-10
     ],
     "shielded helion to shielded proton mag. mom. ratio": [
-      -0.7617861313,
+      -0.7617861334,
       "",
-      3.3e-09
+      3.1e-09
     ],
     "shielded proton gyromag. ratio": [
-      267515315.1,
+      267515319.4,
       "s^-1 T^-1",
-      2.9
+      1.1
     ],
     "shielded proton gyromag. ratio in MHz/T": [
-      42.57638474,
+      42.57638543,
       "MHz T^-1",
-      4.6e-07
+      1.7e-07
     ],
     "shielded proton mag. mom.": [
-      1.41057056e-26,
+      1.410570583e-26,
       "J T^-1",
-      1.5e-34
+      5.8e-35
     ],
     "shielded proton mag. mom. to Bohr magneton ratio": [
-      0.001520993128,
+      0.0015209931551,
       "",
-      1.7e-11
+      6.2e-12
     ],
     "shielded proton mag. mom. to nuclear magneton ratio": [
-      2.792775599,
+      2.792775648,
       "",
-      3e-08
+      1.1e-08
     ],
     "shielding difference of d and p in HD": [
-      2.02e-08,
+      1.9877e-08,
       "",
-      2e-11
+      1e-12
     ],
     "shielding difference of t and p in HT": [
-      2.414e-08,
+      2.3945e-08,
       "",
-      2e-11
+      2e-12
     ],
     "speed of light in vacuum": [
       299792458.0,
       "m s^-1",
-      0
+      0.0
     ],
     "standard acceleration of gravity": [
       9.80665,
       "m s^-2",
-      0
+      0.0
     ],
     "standard atmosphere": [
       101325.0,
       "Pa",
-      0
+      0.0
     ],
     "standard-state pressure": [
       100000.0,
       "Pa",
-      0
+      0.0
     ],
     "Stefan-Boltzmann constant": [
-      5.670374419e-08,
+      5.670374419184429e-08,
       "W m^-2 K^-4",
-      0
+      0.0
     ],
     "tau Compton wavelength": [
       6.97771e-16,
@@ -1933,114 +1928,114 @@
       0.00013
     ],
     "Thomson cross section": [
-      6.6524587321e-29,
+      6.6524587051e-29,
       "m^2",
-      6e-38
+      6.2e-38
     ],
     "triton-electron mass ratio": [
-      5496.92153573,
+      5496.92153551,
       "",
-      2.7e-07
+      2.1e-07
     ],
     "triton g factor": [
-      5.957924931,
+      5.95792493,
       "",
       1.2e-08
     ],
     "triton mag. mom.": [
-      1.5046095202e-26,
+      1.5046095178e-26,
       "J T^-1",
       3e-35
     ],
     "triton mag. mom. to Bohr magneton ratio": [
-      0.0016223936651,
+      0.0016223936648,
       "",
       3.2e-12
     ],
     "triton mag. mom. to nuclear magneton ratio": [
-      2.9789624656,
+      2.978962465,
       "",
       5.9e-09
     ],
     "triton mass": [
-      5.0073567446e-27,
+      5.0073567512e-27,
       "kg",
-      1.5e-36
+      1.6e-36
     ],
     "triton mass energy equivalent": [
-      4.500387806e-10,
+      4.5003878119e-10,
       "J",
       1.4e-19
     ],
     "triton mass energy equivalent in MeV": [
-      2808.92113298,
+      2808.92113668,
       "MeV",
-      8.5e-07
+      8.8e-07
     ],
     "triton mass in u": [
-      3.01550071621,
+      3.01550071597,
       "u",
-      1.2e-10
+      1e-10
     ],
     "triton molar mass": [
-      0.00301550071517,
+      0.00301550071913,
       "kg mol^-1",
-      9.2e-13
+      9.4e-13
     ],
     "triton-proton mass ratio": [
-      2.99371703414,
+      2.99371703403,
       "",
-      1.5e-10
+      1e-10
     ],
     "triton relative atomic mass": [
-      3.01550071621,
+      3.01550071597,
       "",
-      1.2e-10
+      1e-10
     ],
     "triton to proton mag. mom. ratio": [
-      1.0666399191,
+      1.0666399189,
       "",
       2.1e-09
     ],
     "unified atomic mass unit": [
-      1.6605390666e-27,
+      1.66053906892e-27,
       "kg",
-      5e-37
+      5.2e-37
     ],
     "vacuum electric permittivity": [
-      8.8541878128e-12,
+      8.8541878188e-12,
       "F m^-1",
-      1.3e-21
+      1.4e-21
     ],
     "vacuum mag. permeability": [
-      1.25663706212e-06,
+      1.25663706127e-06,
       "N A^-2",
-      1.9e-16
+      2e-16
     ],
     "von Klitzing constant": [
-      25812.80745,
+      25812.807459304513,
       "ohm",
-      0
+      0.0
     ],
     "weak mixing angle": [
-      0.2229,
+      0.22305,
       "",
-      0.0003
+      0.00023
     ],
     "Wien frequency displacement law constant": [
-      58789257570.0,
+      58789257576.468254,
       "Hz K^-1",
-      0
+      0.0
     ],
     "Wien wavelength displacement law constant": [
-      0.002897771955,
+      0.0028977719551851727,
       "m K",
-      0
+      0.0
     ],
     "W to Z mass ratio": [
-      0.88153,
+      0.88145,
       "",
-      0.00017
+      0.00013
     ],
     "light-year": [
       9460730472580800.0,
@@ -2051,6 +2046,11 @@
       30856775814913673,
       "m",
       0.0
+    ],
+    "alpha particle rms charge radius": [
+      1.6785e-15,
+      "m",
+      2.1e-18
     ]
   },
   "shortcuts": {
@@ -2252,7 +2252,7 @@
     ],
     "hbar": [
       "fundamental physical",
-      "Planck constant over 2pi"
+      "reduced Planck constant"
     ],
     "ec": [
       "fundamental physical",
