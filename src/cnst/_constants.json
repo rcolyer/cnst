@@ -2181,6 +2181,31 @@
       1.6785e-15,
       "m",
       2.1e-18
+    ],
+    "eV": [
+      1.602176634e-19,
+      "J",
+      0.0
+    ],
+    "MeV": [
+      1.602176634e-13,
+      "J",
+      0.0
+    ],
+    "GeV": [
+      1.602176634e-10,
+      "J",
+      0.0
+    ],
+    "MeV/c^2": [
+      1.782661921627898e-30,
+      "kg",
+      0.0
+    ],
+    "GeV/c^2": [
+      1.782661921627898e-27,
+      "kg",
+      0.0
     ]
   },
   "shortcuts": {
@@ -2435,6 +2460,10 @@
     "AU": [
       "astronomical",
       "astronomical unit"
+    ],
+    "Da": [
+      "fundamental physical",
+      "unified atomic mass unit"
     ],
     "pi": [
       "mathematical",
