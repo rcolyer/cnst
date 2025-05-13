@@ -390,6 +390,31 @@
       "m s^-2",
       0.1
     ],
+    "surface gravity of Ceres": [
+      0.284,
+      "m s^-2",
+      0.001
+    ],
+    "surface gravity of Haumea, poles": [
+      0.93,
+      "m s^-2",
+      0.01
+    ],
+    "surface gravity of Haumea, long axis": [
+      0.24,
+      "m s^-2",
+      0.01
+    ],
+    "surface gravity of Makemake": [
+      0.41,
+      "m s^-2",
+      0.1
+    ],
+    "surface gravity of 16 Psyche": [
+      0.14,
+      "m s^-2",
+      0.03
+    ],
     "astronomical unit": [
       149597870700.0,
       "m",
