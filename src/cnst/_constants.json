@@ -1732,6 +1732,11 @@
       "kg",
       2.4e-13
     ],
+    "Planck energy": [
+      1956081000.0,
+      "J",
+      22000.0
+    ],
     "Planck mass energy equivalent in GeV": [
       1.22089e+19,
       "GeV",
@@ -2207,6 +2212,11 @@
       "m",
       2.1e-18
     ],
+    "Coulomb constant": [
+      8987551786.2,
+      "N m^2 C^-2",
+      1.4
+    ],
     "eV": [
       1.602176634e-19,
       "J",
@@ -2437,6 +2447,18 @@
     "ec": [
       "fundamental physical",
       "elementary charge"
+    ],
+    "e0": [
+      "fundamental physical",
+      "vacuum electric permittivity"
+    ],
+    "mu0": [
+      "fundamental physical",
+      "vacuum mag. permeability"
+    ],
+    "ke": [
+      "fundamental physical",
+      "Coulomb constant"
     ],
     "k": [
       "fundamental physical",
