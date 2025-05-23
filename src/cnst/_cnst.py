@@ -18,8 +18,8 @@ class Cnst():
         for k,v in self.table[t].items()}
     self.reluncert = {k:u/v for (k,v),(k2,u) in
         zip(self.all.items(), self.uncertainty.items()) if k==k2 and v!=0}
-    self.label = {k:f'{t} / {k}' for t in self.table_names
-        for k,v in self.table[t].items()}
+    self.category = {k:t for t in self.table_names for k in self.table[t]}
+    self.name = {k:k for t in self.table_names for k in self.table[t]}
 
     for k,v in self.table['shortcuts'].items():
       try:
@@ -29,7 +29,8 @@ class Cnst():
         self.unit[k] = entry[1]
         self.uncertainty[k] = entry[2]
         self.reluncert[k] = entry[2]/entry[0]
-        self.label[k] = ' / '.join(v)
+        self.category[k] = v[0]
+        self.name[k] = v[1]
       except Exception as e:
         print(f'{k}: {v}', e)
 
@@ -37,27 +38,35 @@ class Cnst():
       def __init__(self, cnst):
         self.cnst = cnst
       def __getitem__(self, key):
-        d = {'value':self.cnst.all[key], 'label':self.cnst.label[key],
-            'unit':self.cnst.unit[key],
+        d = {'value':self.cnst.all[key], 'category':self.cnst.category[key],
+            'name':self.cnst.name[key], 'unit':self.cnst.unit[key],
             'uncertainty':self.cnst.uncertainty[key]}
         sc = [k for k,v in self.cnst.table['shortcuts'].items() if v[1] == key]
         if sc:
           d['shortcut'] = sc[0]
+        elif key in self.cnst.table['shortcuts']:
+          d['shortcut'] = key
         return d
     self.info = _info(self)
 
   def __getitem__(self, key):
     return self.all[key]
 
-  def search(self, s):
+  def search(self, s, limit_count=None):
     keys = []
     if s in self.all:
       keys.append(s)
     keys.extend(sorted(
+      [k for k in self.table['shortcuts'] if s.lower() in k.lower()],
+      key=lambda k:(len(k), k)))
+    keys.extend(sorted(
       [k for t in self.table_names for k,v in self.table[t].items()
       if (k not in keys) and (s.lower() in k.lower())],
       key=lambda k:(len(k), k)))
-    return {k:self.info[k] for k in keys}
+    if limit_count is None:
+      return {k:self.info[k] for k in keys}
+    else:
+      return {k:self.info[k] for k in keys[:limit_count]}
 
 cnst = Cnst()
 

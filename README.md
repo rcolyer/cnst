@@ -9,8 +9,8 @@ This python package provides convenient access to constants from physics, astron
 * `cnst.info['G']` -- Dictionary summarizing the available info for the Newtonian constant of gravitation.
 * `cnst.search('moon')` -- Dictionary of information for available constants with "moon" in the name, case-insensitive.
 * `print('\n'.join(cnst.search('planck').keys()))` -- Print the names of all the constants with Planck in the name.
-* `cnst.label['z95']` -- Reveals the label for a constant:
-  - `'mathematical / z score for 95% confidence interval'`
+* `cnst.category['z95'], cnst.name['z95']` -- Reveals the category and full name for a constant:
+  - `('mathematical', 'z score for 95% confidence interval')`
 * `cnst.all` -- Dictionary of all values available.
 * `cnst['Planck temperature']` -- Direct access for non-shortcut values by name.
 * `cnst.unit['hbar']` -- A string of the unit for this constant.
